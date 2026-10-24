@@ -1,0 +1,20 @@
+{
+  "name": "silkroad",
+  "title": "Silkroad",
+  "description": "Road mapping on meth",
+  "version": "0.1.0",
+  "api": {
+    "framework": "platform",
+    "runtime": "node",
+    "port": 3399,
+    "graphql": "/graphql",
+    "health": "/health"
+  },
+  "ui": {
+    "framework": "react",
+    "port": 3099,
+    "name": "silkroad",
+    "remote": "silkroad_ui",
+    "path": "silkroad"
+  }
+}

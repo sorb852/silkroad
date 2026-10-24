@@ -72,4 +72,3 @@ a private gateway-only network and strip user/tenant headers at public ingress.
 
 See [docs/erxes-integration.md](docs/erxes-integration.md) for how the plugin
 plugs into erxes and [AGENTS.md](AGENTS.md) for the rules to keep it working.
-# silkroad
